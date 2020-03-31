@@ -1,0 +1,7 @@
+D:\YouTube\C# Design Patterns\Clothes Factory\Clothes Factory\bin\Debug\Clothes Factory.exe.config
+D:\YouTube\C# Design Patterns\Clothes Factory\Clothes Factory\bin\Debug\Clothes Factory.exe
+D:\YouTube\C# Design Patterns\Clothes Factory\Clothes Factory\bin\Debug\Clothes Factory.pdb
+D:\YouTube\C# Design Patterns\Clothes Factory\Clothes Factory\obj\Debug\Clothes Factory.csprojResolveAssemblyReference.cache
+D:\YouTube\C# Design Patterns\Clothes Factory\Clothes Factory\obj\Debug\Clothes Factory.csproj.CoreCompileInputs.cache
+D:\YouTube\C# Design Patterns\Clothes Factory\Clothes Factory\obj\Debug\Clothes Factory.exe
+D:\YouTube\C# Design Patterns\Clothes Factory\Clothes Factory\obj\Debug\Clothes Factory.pdb

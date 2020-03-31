@@ -1,0 +1,6 @@
+C:\Users\Xheljani\Source\Repos\Abstract-Factory-Pattern2\Clothes Factory\obj\Debug\Clothes Factory.exe
+C:\Users\Xheljani\Source\Repos\Abstract-Factory-Pattern2\Clothes Factory\obj\Debug\Clothes Factory.pdb
+C:\Users\Xheljani\Source\Repos\Abstract-Factory-Pattern2\Clothes Factory\bin\Debug\Clothes Factory.exe.config
+C:\Users\Xheljani\Source\Repos\Abstract-Factory-Pattern2\Clothes Factory\bin\Debug\Clothes Factory.exe
+C:\Users\Xheljani\Source\Repos\Abstract-Factory-Pattern2\Clothes Factory\bin\Debug\Clothes Factory.pdb
+C:\Users\Xheljani\Source\Repos\Abstract-Factory-Pattern2\Clothes Factory\obj\Debug\Drink Factory.csprojAssemblyReference.cache
